@@ -22,7 +22,3 @@ Clone this repository to access precompiled .NET libraries:
 ```bash
 git clone https://github.com/topvidsy2k-eng/.dotnet.git
 ```
-
----
-
-*Generated: 2025*
